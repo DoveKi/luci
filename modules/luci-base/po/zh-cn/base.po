@@ -576,6 +576,9 @@ msgstr "CA 证书，如果留空，则证书将在第一次连接后被保存。
 msgid "CPU usage (%)"
 msgstr "CPU 使用率（%）"
 
+msgid "NSS usage (%)"
+msgstr "NSS 使用率（%）"
+
 msgid "Cancel"
 msgstr "取消"
 
