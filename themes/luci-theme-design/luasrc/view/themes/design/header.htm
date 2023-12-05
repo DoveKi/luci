@@ -118,7 +118,7 @@
 
 	-- Custom settings
 	local mode = 'normal'
-	local navbar = 'display'
+	local navbar = 'close'
 	local navbar_proxy = 'shadowsocksr'
 	if fs.access('/etc/config/design') then
 		mode = uci:get_first('design', 'global', 'mode')
